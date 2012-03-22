@@ -11,7 +11,7 @@ namespace Test.Console
         {
             System.Console.Write("Enter your name: ");
             string name = System.Console.ReadLine();
-            System.Console.WriteLine("Hello world {0} !", name);
+            System.Console.WriteLine("Hello, {0} !", name);
         }
     }
 }
